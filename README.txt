@@ -1,3 +1,8 @@
+Forked from original project (https://github.com/jiehanchong/membrane-depth-analysis), which was done in support of this paper by Kalli lab https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009232#sec012.
+
+TO DO:
+Make this work for atomistic lipids
+
 membrane-depth-analysis
 A repository of tools for calculating the depth of a membrane, and manipulating the outputs
 
